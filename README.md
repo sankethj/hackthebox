@@ -13,7 +13,7 @@ pip install json
 
 USAGE :-
 
-./invite.py
+python invite.py
 
 
 
@@ -21,4 +21,3 @@ HOW TO USE :-
 
 Enter the number of invite codes you need and you will get the invite codes.
 I also added reference on how i coded, it can come handy for learners. 
-
