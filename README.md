@@ -1,4 +1,4 @@
-# hackthebox
+# Hackthebox
 hack the box unlimited invite code generator using python.
 
 U need requests, base64, json modules.
