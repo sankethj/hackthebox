@@ -4,7 +4,7 @@ import base64
 import json
 url = "https://www.hackthebox.eu/api/invite/generate"
 i = 0 
-num = input('Enter the number of invite codes: ')
+num = int(input('Enter the number of invite codes: ')) 
 while i < num :
         headers = {'User-Agent': ''}
         result = requests.post(url,headers=headers)  
