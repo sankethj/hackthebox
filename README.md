@@ -3,21 +3,21 @@ hack the box unlimited invite code generator using python.
 
 U need requests, base64, json modules.
 
-COMMANDS :-
+## Installation
 
-pip install requests
-pip install base64
-pip install json
-
-
-
-USAGE :-
-
-python invite.py
+* `pip install requests`
+* `pip install base64`
+* `pip install json`
 
 
 
-HOW TO USE :-
+## USAGE 
 
-Enter the number of invite codes you need and you will get the invite codes.
+* `python invite.py`
+
+
+
+## HOW TO USE 
+
+Enter the *number of invite codes* you need and you will get the invite codes.
 I also added reference on how i coded, it can come handy for learners. 
